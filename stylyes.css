@@ -1,0 +1,18 @@
+.w3-bar {
+    background-image: url('picture/ab.jpg');
+    background-size: cover; /* Adjust as needed */
+  }
+
+  header {
+    background-image: url('picture/gg.gif');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+  }
+
+  .container {
+    width: 50%;
+    height: 100;
+    margin: 50 auto; /* จะทำให้ Container อยู่ตรงกลางของหน้าจอ */
+    background-color: #f0f0f0;
+    padding: 20px;
+}
